@@ -257,15 +257,6 @@
 		"name": "Bolivia"
 	},
 	{
-		"capital": "Kralendijk",
-		"code": "bq",
-		"continent": "South America",
-		"flag_1x1": "flags/1x1/bq.svg",
-		"flag_4x3": "flags/4x3/bq.svg",
-		"iso": true,
-		"name": "Bonaire, Sint Eustatius and Saba"
-	},
-	{
 		"capital": "Sarajevo",
 		"code": "ba",
 		"continent": "Europe",
@@ -283,13 +274,7 @@
 		"iso": true,
 		"name": "Botswana"
 	},
-	{
-		"code": "bv",
-		"flag_1x1": "flags/1x1/bv.svg",
-		"flag_4x3": "flags/4x3/bv.svg",
-		"iso": true,
-		"name": "Bouvet Island"
-	},
+
 	{
 		"capital": "Brasília",
 		"code": "br",
@@ -413,13 +398,6 @@
 		"name": "Central African Republic"
 	},
 	{
-		"code": "cefta",
-		"flag_1x1": "flags/1x1/cefta.svg",
-		"flag_4x3": "flags/4x3/cefta.svg",
-		"iso": false,
-		"name": "Central European Free Trade Agreement"
-	},
-	{
 		"capital": "N'Djamena",
 		"code": "td",
 		"continent": "Africa",
@@ -454,13 +432,6 @@
 		"flag_4x3": "flags/4x3/cx.svg",
 		"iso": true,
 		"name": "Christmas Island"
-	},
-	{
-		"code": "cp",
-		"flag_1x1": "flags/1x1/cp.svg",
-		"flag_4x3": "flags/4x3/cp.svg",
-		"iso": false,
-		"name": "Clipperton Island"
 	},
 	{
 		"capital": "West Island",
@@ -578,13 +549,6 @@
 		"flag_4x3": "flags/4x3/dk.svg",
 		"iso": true,
 		"name": "Denmark"
-	},
-	{
-		"code": "dg",
-		"flag_1x1": "flags/1x1/dg.svg",
-		"flag_4x3": "flags/4x3/dg.svg",
-		"iso": false,
-		"name": "Diego Garcia"
 	},
 	{
 		"capital": "Djibouti",
@@ -2272,13 +2236,6 @@
 		"flag_4x3": "flags/4x3/us.svg",
 		"iso": true,
 		"name": "United States of America"
-	},
-	{
-		"code": "xx",
-		"flag_1x1": "flags/1x1/xx.svg",
-		"flag_4x3": "flags/4x3/xx.svg",
-		"iso": false,
-		"name": "Unknown"
 	},
 	{
 		"capital": "Montevideo",
