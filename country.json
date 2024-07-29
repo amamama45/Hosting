@@ -2123,17 +2123,6 @@
 		"class": 4
 	},
 	{
-		"capital": "Sokhumi",
-		"code": "ge",
-		"continent": "Europe",
-		"flag_1x1": "flags/1x1/geab.svg",
-		"flag_4x3": "flags/4x3/geab.svg",
-		"iso": false,
-		"name": "Abkhazia",
-		"populationRank": 195,
-		"class": 5
-	},
-	{
 		"capital": "Sao Tome",
 		"code": "st",
 		"continent": "Africa",
@@ -2363,17 +2352,6 @@
 		"name": "Guernsey",
 		"populationRank": 216,
 		"class": 4
-	},
-	{
-		"capital": "Tskhinvali",
-		"code": "os",
-		"continent": "Europe",
-		"flag_1x1": "flags/1x1/os.svg",
-		"flag_4x3": "flags/4x3/os.svg",
-		"iso": false,
-		"name": "South Ossetia",
-		"populationRank": 217,
-		"class": 5
 	},
 	{
 		"capital": "Nuuk",
