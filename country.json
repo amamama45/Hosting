@@ -2024,17 +2024,6 @@
 		"class": 4
 	},
 	{
-		"capital": "North Nicosia",
-		"code": "cy",
-		"continent": "Europe",
-		"flag_1x1": "flags/1x1/nct.svg",
-		"flag_4x3": "flags/4x3/nct.svg",
-		"iso": false,
-		"name": "Northern Cyprus",
-		"populationRank": 186,
-		"class": 4
-	},
-	{
 		"capital": "Reykjavik",
 		"code": "is",
 		"continent": "Europe",
