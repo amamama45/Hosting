@@ -2640,17 +2640,6 @@
 		"class": 5
 	},
 	{
-		"capital": "Jamestown",
-		"code": "sh",
-		"continent": "Africa",
-		"flag_1x1": "flags/1x1/sh.svg",
-		"flag_4x3": "flags/4x3/sh.svg",
-		"iso": true,
-		"name": "Saint Helena, Ascension and Tristan da Cunha",
-		"populationRank": 242,
-		"class": 5
-	},
-	{
 		"capital": "Little Bay, Brades, Plymouth",
 		"code": "ms",
 		"continent": "North America",
